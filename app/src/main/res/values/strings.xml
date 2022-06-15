@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FishermanLoot</string>
+    <string name="spin">Spin</string>
+    <string name="_0">0</string>
+    <string name="looted">Looted</string>
+
+    <string name="facebook_id">523768692762833</string>
+    <string name="facebook_token">73cc4d5c3bf9ff4ba19c02048d9af863</string>
+</resources>
